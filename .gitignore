@@ -1,2 +1,3 @@
 /.okta.env
+/.env
 /node_modules
